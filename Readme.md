@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Таня Родионова](https://up.htmlacademy.ru/htmlcss/22/user/663997).
-* Наставник: `Неизвестно`.
+* Наставник: [Макс Масленко](https://htmlacademy.ru/profile/biggus-dickus).
 
 ---
 
